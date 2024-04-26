@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Takes 2 arguments in order to solve this challenge"""
 import sys

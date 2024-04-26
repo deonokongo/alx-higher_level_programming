@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Takes in a URL and an email,
